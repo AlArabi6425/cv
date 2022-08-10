@@ -35,7 +35,7 @@ hr {
   margin: 100px auto;
 }
 
-a{
+a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
@@ -45,10 +45,12 @@ a{
 a:hover {
   color: #EAF6F6;
 }
+
 .photo {
-  max-width: 30%;
-height: auto;
+  max-width: 20%;
+
 }
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
@@ -71,7 +73,6 @@ height: auto;
   margin: 100px auto 100px auto;
   text-align: left;
 }
-
 
 .intro {
   width: 30%;
@@ -108,8 +109,6 @@ height: auto;
   margin-right: 30px;
 }
 
-
-
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -136,11 +135,7 @@ height: auto;
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
 .logo {
-
-  padding: 1px 2px 1px 200px;
-
-
-
-
+  padding: 1px 2px 1px 300px;
 }
